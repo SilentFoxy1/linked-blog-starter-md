@@ -1,0 +1,1 @@
+To hereby present the framework of the HEROES project, which aims to: continue the development of man-machine interface modality for stroke patients conduct a neurorehabilitation protocol & clinical study synergistic effects in promoting dormant neuroplasticity HEROES will deploy training in wearable robotics, brain-machine interfaces, virtual environments
